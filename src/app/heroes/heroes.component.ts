@@ -1,6 +1,8 @@
+// Angular
 import { Component, OnInit } from '@angular/core';
 
-import { Human } from '../app';
+// Internal import
+import { Human } from '../human';
 import { HUMANS } from '../mock-humans'
 
 @Component({

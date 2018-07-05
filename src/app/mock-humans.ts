@@ -1,4 +1,4 @@
-import { Human } from './app';
+import { Human } from './human';
 
 export const HUMANS: Human[] = [
   { id: 11, name: 'Kholoud', age: 52 },

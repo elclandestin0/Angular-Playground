@@ -9,6 +9,5 @@ import { FormsModule } from '@angular/forms'; // <-- NgModel lives here
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-
   title = 'Angular Playground';
 }
